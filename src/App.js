@@ -1,4 +1,3 @@
-import Friend from "./Friend";
 import "./App.scss";
 import Nav from "./Nav/Nav";
 import Home from "./Home/Home";
